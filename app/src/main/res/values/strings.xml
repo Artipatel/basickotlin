@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">BasicKotlin</string>
+    <string name="show_toast">Show Toast</string>
+    <string name="add">Add</string>
+    <string name="max_from_above_values">max from InputA and InputB</string>
+    <string name="print_strings_from_array">Print strings from array</string>
+    <string name="open_list_items_screen">Open list items screen</string>
+    <string name="add_row">Add row</string>
+</resources>
